@@ -1,0 +1,12 @@
+var g_data = {'dummy':null,
+'4':'./tb/../rtl/dut_ram.v',
+'6':'./tb/driver.sv',
+'10':'./tb/environment.sv',
+'5':'./tb/generator.sv',
+'1':'./tb/interface.sv',
+'7':'./tb/monitor.sv',
+'9':'./tb/reference_model.sv',
+'8':'./tb/scoreboard.sv',
+'3':'./tb/test.sv',
+'2':'./tb/testbench.sv',
+'11':'./tb/transaction.sv'};

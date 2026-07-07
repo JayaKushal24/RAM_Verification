@@ -1,0 +1,11 @@
+./tb/../rtl/dut_ram.v
+./tb/driver.sv
+./tb/environment.sv
+./tb/generator.sv
+./tb/interface.sv
+./tb/monitor.sv
+./tb/reference_model.sv
+./tb/scoreboard.sv
+./tb/test.sv
+./tb/testbench.sv
+./tb/transaction.sv

@@ -1,0 +1,5 @@
+`define ADDR_WIDTH 5
+`define DATA_WIDTH 8
+`define TESTCASES 2000
+
+`define EQUAL_READ_WRITE 1 
