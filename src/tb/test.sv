@@ -60,19 +60,14 @@ class test_regression extends test;
         endtask
 
         virtual task start();
-
                 tr0=new();
                 run_test(tr0);
-
                 tr1=new();
                 run_test(tr1);
-
                 tr2=new();
                 run_test(tr2);
-
                 tr3=new();
                 run_test(tr3);
-
                 $finish;
         endtask
 
