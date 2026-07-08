@@ -1,6 +1,0 @@
-vlog -sv +acc +cover +fcover -l verif_log.log ./tb/testbench.sv
-
-vsim -vopt work.tb -voptargs=+acc=npr -assertdebug -l verif_log.log -coverage -c -do "coverage save -onexit -assert -directive -cvg -codeAll verif_ucdb.ucdb; run -all; exit"
-
-vcover report -html verif_ucdb.ucdb -htmldir covReport -details
-
