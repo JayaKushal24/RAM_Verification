@@ -296,7 +296,3 @@ Expected waveform behavior:
 - Parameterize `ADDR_WIDTH`/`DATA_WIDTH` beyond `defines.svh` and re-verify at multiple configurations
 - Scale `TESTCASES` for deeper regression and higher coverage confidence
 - Add a virtual sequencer to coordinate mixed directed/random scenarios in a single run
-
-## Appendix
-
-Repository: _add your GitHub repository link here_
